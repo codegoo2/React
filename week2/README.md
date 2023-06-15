@@ -1,9 +1,10 @@
 # Reading Material React Week 2
 
 ## Agenda
-
-These are the topics for week 2:
-
+These aImportant note on ReactImportant note on Reactre the topics for week 2:
+Important note on Reactfa  time to work with API's again. In vanilla JavaScript we learned about the fetch mechanism, but when thinking in a component way we need to approach it a little differently. To do this we need to make use of the `useEffect` hook, so let's revisit the [ho 
+ time to work with API's again. In vanilla JavaScript we learned about the fetch mechanism, but when thinking in a component way we need to approach it a little differently. To do this we need to make use of the `useEffect` hook, so let's revisit the [ho
+  time to work with API's again. In vanilla JavaScript we learned about the fetch mechanism, but when thinking in a component way we need to approach it a little differently. To do this we need to make use of the `useEffect` hook, so let's revisit the [ho
 1. [Hooks](https://study.hackyourfuture.net/#/react/react-hooks.md)
    - **ONLY THE useEffect HOOK**
 2. [API calls in React](https://study.hackyourfuture.net/#/react/api-calls.md)
